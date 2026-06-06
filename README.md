@@ -130,4 +130,4 @@ pyspark-etl-project/
 
 **Varanasi V G Alekhya**
 Senior Systems Engineer → Data Engineer
-[LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/Alekhya-Varanasi)
+[LinkedIn](https://www.linkedin.com/in/varanasi-v-g-alekhya/) | [GitHub](https://github.com/Alekhya-Varanasi)
